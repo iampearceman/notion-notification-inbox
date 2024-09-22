@@ -1,6 +1,6 @@
-# Fully Functional Notion Inbox Notification Theme
+## Fully Functional Notion Inbox Notification Theme
 
-![Screen Recording 2024-09-22 at 22 08 15](https://github.com/user-attachments/assets/35517bba-5add-4062-b578-6358632fbd3e)
+![Untitled design(2)](https://github.com/user-attachments/assets/66b1e7bf-c9fc-4678-94dc-f450c3427911)
 
 ## Getting Started
 
@@ -18,4 +18,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### [Check Out The Deployed Version](https://github.com/novuhq/inbox-playground)
+[Check Out The Deployed Version](https://github.com/novuhq/inbox-playground)
